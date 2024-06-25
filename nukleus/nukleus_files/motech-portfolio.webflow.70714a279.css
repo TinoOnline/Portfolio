@@ -118,7 +118,7 @@ strong {
 .logo._2 {
   width: 40px;
   margin-left: 0px;
-  background-image: url("https://uploads-ssl.webflow.com/5f4cc84e4c12dba62d0c1f39/5f4cc8f35a368da02b5f0ab5_logo.png");
+  background-image: url("../../blackT.png");
   background-size: auto 100%;
 }
 
@@ -138,7 +138,7 @@ strong {
   -ms-flex-align: center;
   align-items: center;
   border: 1px solid transparent;
-  background-image: url("https://uploads-ssl.webflow.com/5f4cc84e4c12dba62d0c1f39/5f4cc8f35a368da02b5f0ab5_logo.png");
+  background-image: url("../../blackT.png");
   font-family: Basisgrotesque, Arial, sans-serif;
 }
 
