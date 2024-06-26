@@ -461,6 +461,18 @@ strong {
   text-transform: uppercase;
 }
 
+.stack_used {
+  display: inline;
+  margin-top: 0px;
+  margin-bottom: 8px;
+  margin-left: 0px;
+  font-family: Basisgrotesque, Arial, sans-serif;
+  color: #1b1b1b;
+  font-size: 12px;
+  line-height: 1.25;
+  font-weight: normal;
+}
+
 .side-info {
   position: -webkit-sticky;
   position: sticky;
